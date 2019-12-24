@@ -1,7 +1,7 @@
 <annotation>
-	<folder>anatomy</folder>
+	<folder>train</folder>
 	<filename>ty01.jpg-im27.jpg</filename>
-	<path>C:\Users\MURUGAS\Desktop\implant annotation\anatomy\ty01.jpg-im27.jpg</path>
+	<path>C:\Users\MURUGAS\Desktop\train model\object_detection_demo\data\images\train\ty01.jpg-im27.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,30 @@
 			<ymin>160</ymin>
 			<xmax>298</xmax>
 			<ymax>412</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shoulder - Anotomyfull - Stryker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>118</ymin>
+			<xmax>432</xmax>
+			<ymax>694</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shoulder - Anotomybottom - Stryker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>358</ymin>
+			<xmax>428</xmax>
+			<ymax>678</ymax>
 		</bndbox>
 	</object>
 </annotation>

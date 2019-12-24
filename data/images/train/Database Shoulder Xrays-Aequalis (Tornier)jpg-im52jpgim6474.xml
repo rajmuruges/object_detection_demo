@@ -1,7 +1,7 @@
 <annotation>
-	<folder>implant annotation</folder>
+	<folder>train</folder>
 	<filename>Database Shoulder Xrays-Aequalis (Tornier)jpg-im52jpgim6474.jpg</filename>
-	<path>C:\Users\MURUGAS\Desktop\implant annotation\Database Shoulder Xrays-Aequalis (Tornier)jpg-im52jpgim6474.jpg</path>
+	<path>C:\Users\MURUGAS\Desktop\train model\object_detection_demo\data\images\train\Database Shoulder Xrays-Aequalis (Tornier)jpg-im52jpgim6474.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,30 @@
 			<ymin>79</ymin>
 			<xmax>718</xmax>
 			<ymax>783</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shoulder - Aequalisfull - Tornier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>61</ymin>
+			<xmax>972</xmax>
+			<ymax>1871</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shoulder - Aequalisbottom - Tornier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>459</xmin>
+			<ymin>777</ymin>
+			<xmax>988</xmax>
+			<ymax>1887</ymax>
 		</bndbox>
 	</object>
 </annotation>

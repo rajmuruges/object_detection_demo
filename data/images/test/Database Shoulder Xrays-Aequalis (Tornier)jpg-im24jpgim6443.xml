@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
 	<filename>Database Shoulder Xrays-Aequalis (Tornier)jpg-im24jpgim6443.jpg</filename>
-	<path>C:\Users\MURUGAS\PycharmProjects\untitled9\venv\models\research\object_detection\images\test\Database Shoulder Xrays-Aequalis (Tornier)jpg-im24jpgim6443.jpg</path>
+	<path>C:\Users\MURUGAS\Desktop\train model\object_detection_demo\data\images\test\Database Shoulder Xrays-Aequalis (Tornier)jpg-im24jpgim6443.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,30 @@
 			<ymin>214</ymin>
 			<xmax>1043</xmax>
 			<ymax>845</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shoulder - Aequalisfull - Tornier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>172</ymin>
+			<xmax>1056</xmax>
+			<ymax>1742</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shoulder - Aequalisbottom - Tornier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>766</ymin>
+			<xmax>622</xmax>
+			<ymax>1762</ymax>
 		</bndbox>
 	</object>
 </annotation>
